@@ -1,0 +1,28 @@
+Jul 09, 2016 1:37:39 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 1:37:39 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 1:37:40 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 1:37:40 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 1:37:41 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 1:37:41 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 1:37:50 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 1:37:50 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 1:37:51 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 1:37:51 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 2:08:12 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 2:08:12 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
+Jul 09, 2016 2:08:19 AM Service.HDFSConnector checkConnection
+WARNING: Unable to Connect:hdfs://localhost:9000
+Jul 09, 2016 2:08:19 AM Service.FetchService getFileFetcherObject
+INFO: Returned Local File Object.
